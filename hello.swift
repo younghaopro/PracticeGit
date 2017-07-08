@@ -8,4 +8,3 @@ var str = "Hello Swift OC"
 
 
 var  str = "feature-test1"
-var str = "feature-test2" 
